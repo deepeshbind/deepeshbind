@@ -1,5 +1,5 @@
 <h1 align="center">deepesh bind</h1>
-<h3 align="center">backend engineer</h3>
+<h3 align="center">fullstack engineer</h3>
 
 ---
 
