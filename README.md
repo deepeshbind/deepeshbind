@@ -4,12 +4,12 @@
 ---
 
 diving into  
-- distributed systems, rust internals, observability, orchestration  
+- distributed systems, go internals, observability, orchestration  
 
 stack i vibe with  
--  go · typescript · postgres · redis · docker · kubernetes  
+-  typescript · postgres · redis · docker · kubernetes  
 
 contact  
 - email → deepeshbind@gmail.com  
 - site → [deepeshbind.tech](https://www.deepeshbind.tech)  
-- github → [pixperk](https://github.com/deepeshbind)   
+- github → [deepeshbind](https://github.com/deepeshbind)   
